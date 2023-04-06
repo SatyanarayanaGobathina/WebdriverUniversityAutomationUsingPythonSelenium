@@ -1,0 +1,17 @@
+Hello this is written using vim 
+vim is application to create and edit files in linux !
+1. sudo apt install vim
+2. in terminal type vim filename
+3. enter i to insert data
+4. press esc to escape  
+5. enter :w to execute
+6. hit enter to save file
+7. for exit -------------- after saving -------------------
+8. hit escape 
+9.press :q to quit
+
+10. if there is no need to save data after updating or other scenario 
+	press escape
+	enter :q!
+    not save updated values  
+
